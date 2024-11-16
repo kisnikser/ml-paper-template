@@ -2,9 +2,9 @@
 
 This is the official implementation of the paper **Title** by Author 1, Author 2, and Author 3.
 
-## Project Structure
+## Repository Structure
 
-The directory structure of the project is as follows:
+The repository structure is as follows:
 
 ```
 ├── configs             <- Configs
